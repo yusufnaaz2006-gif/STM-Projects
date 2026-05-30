@@ -56,6 +56,12 @@ void ITM_SendChar(uint8_t ch)
 
 ---
 
+## Output
+<img width="1600" height="840" alt="WhatsApp Image 2026-05-30 at 11 00 11 AM" src="https://github.com/user-attachments/assets/9de49a16-5de6-468a-9aa1-beb46a7937a4" />
+<img width="1419" height="977" alt="WhatsApp Image 2026-05-30 at 11 00 43 AM" src="https://github.com/user-attachments/assets/7b7ea50c-4550-4789-958e-ddd2b2532d61" />
+
+---
+
 ## Software Used
 
 * STM32CubeIDE
